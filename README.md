@@ -1,4 +1,4 @@
-# 313-assignments
+# CS313-assignments
 
 Instructor Alex Chen
 
